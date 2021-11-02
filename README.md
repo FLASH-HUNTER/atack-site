@@ -3,7 +3,11 @@ version 2.0
 
 auto exploiter & get all server sites & bing dorker 
 <br>
+
 <h2>Installation</h2>
+<div dir="rtl">
+<h3>نیاز به روت دارد
+</div>
 <code>git clone https://github.com/KING-HANTER/atack-site.git</code><br><br>
 <code>sudo apt-get update</code><br><br>
 <code>sudo apt-get install php</code><br><br>
