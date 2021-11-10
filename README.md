@@ -8,7 +8,7 @@ auto exploiter & get all server sites & bing dorker
 <div dir="rtl">
 <h3>نیاز به روت دارد
 </div>
-<code>git clone https://github.com/KING-HANTER/atack-site.git</code><br><br>
+<code>git clone https://github.com/FLASH-HANTER/atack-site.git</code><br><br>
 <code>sudo apt-get update</code><br><br>
 <code>sudo apt-get install php</code><br><br>
 <code>sudo apt-get install php-curl</code><br><br>
@@ -38,8 +38,7 @@ detect website cms & website scanner  =&> Auto exploiter
 
 ### Find Me on :
 <p align="left">
-  <a href="https://github.com/KING-HANTER" target="_blank"><img src="https://img.shields.io/badge/Github-king hanter-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/hamid_rezakh1399" target="_blank"><img src="https://img.shields.io/badge/IG-%40king hanter-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://github.com/FLASH-HANTER" target="_blank"><img src="https://img.shields.io/badge/Github-flash hunter-green?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/hamid_rezakh1399/" target="_blank"><img src="https://img.shields.io/badge/IG-%40flash hunter-red?style=for-the-badge&logo=instagram"></a>
 </p>
-
 
