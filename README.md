@@ -8,7 +8,7 @@ auto exploiter & get all server sites & bing dorker
 <div dir="rtl">
 <h3>نیاز به روت دارد
 </div>
-<code>git clone https://github.com/FLASH-HANTER/atack-site.git</code><br><br>
+<code>git clone https://github.com/FLASH-HUNTER/atack-site.git</code><br><br>
 <code>sudo apt-get update</code><br><br>
 <code>sudo apt-get install php</code><br><br>
 <code>sudo apt-get install php-curl</code><br><br>
